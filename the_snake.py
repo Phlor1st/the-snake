@@ -1,6 +1,7 @@
 """Игра «Изгиб Питона» — классическая «Змейка» на pygame."""
 
 from random import choice
+
 import pygame
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 640, 480
